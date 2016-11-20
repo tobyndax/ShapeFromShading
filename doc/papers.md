@@ -12,6 +12,7 @@ respective citation in bibtex format to make them easier to find in case their r
 
 * [Shape Reconstruction from Shadows and Reflections](https://www.vision.caltech.edu/publications/phdthesis_ssavarese.pdf) 
  * A paper about how reflections can be handled and used when reconstructing objects, also shows how spacecarving can be used for 3d reconstruction.
+
 ## Citations
 
 Shape Reconstruction from Shadows and Reflections
