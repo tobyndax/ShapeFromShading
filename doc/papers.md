@@ -11,10 +11,7 @@ respective citation in bibtex format to make them easier to find in case their r
 ## Papers
 
 * [Shape Reconstruction from Shadows and Reflections](https://www.vision.caltech.edu/publications/phdthesis_ssavarese.pdf) 
-
-## Citations
-
-```bash
+** ```bash
 @MISC{Savarese05shapereconstruction,
     author = {Silvio Savarese and Professors James Arvo and Demetri Psaltis and Shinsuke Shimojo},
     title = {Shape Reconstruction from Shadows and Reflections},
